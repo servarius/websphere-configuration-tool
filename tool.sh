@@ -186,4 +186,3 @@ run_task() {
 
 source ${TOOL_FULL_PATH}modules/menu.sh
 menu ${@}
-#wsadmin.sh -lang jython -conntype NONE -c "${RESULT}"
